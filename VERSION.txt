@@ -1,4 +1,2 @@
-version_id=fa8df66
-app=Beach Trip Randomizer
-built=2026-07-19T02:10:26Z
-features=Asheville base · drive/fly · AVL CLT ATL hubs · leave/return times
+version_id=881a69d
+features=smart drive-vs-fly router (time value + min $/person thresholds)

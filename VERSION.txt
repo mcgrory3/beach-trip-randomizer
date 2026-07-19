@@ -1,4 +1,4 @@
-version_id=db8a053
+version_id=e5fd897
 app=Beach Trip Randomizer
-built=2026-07-19T01:22:36Z
-features=budget+people+weekend-timeline+4 commercial travel styles+full cost breakdown
+built=2026-07-19T01:28:52Z
+features=wizard setup (one step at a time) + futuristic glass UI

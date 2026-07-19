@@ -1,4 +1,4 @@
-version_id=ce51526
+version_id=db8a053
 app=Beach Trip Randomizer
-built=2026-07-19T01:13:27Z
-fix=removed BrowserRouter; base=./; kimi inspect plugin removed; host 0.0.0.0
+built=2026-07-19T01:22:36Z
+features=budget+people+weekend-timeline+4 commercial travel styles+full cost breakdown
